@@ -1,6 +1,6 @@
 2024 性价比机场推荐  
 ==
-本站持续从几百家机场/VPN中精选出最好用最具性价比的机场推荐，并整理出其落地拓扑、流媒体检测、测速及价格。方便您在测试、学习、外贸等场景使用。
+本站持续从几百家机场/VPN中精选出最好用最具性价比的机场推荐，并整理出其落地拓扑、流媒体检测、优惠码、测速及价格。方便您在测试、学习、外贸等场景使用。
 2024年便宜机场推荐/vpn推荐，看这一篇就够了！[蘑菇机场超市](http://mushroombom.top)
 
 
@@ -25,6 +25,23 @@
 
 中转机场
 --
+1. **淘气兔**  &emsp;&emsp;&emsp;6元/月，100G中转 &emsp;&emsp; [直达链接](https://mushroombom.top/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/%E6%B7%98%E6%B0%94%E5%85%94/)  
+
+2. **墨络云**  &emsp;&emsp;&emsp;9元/月，128G中转 &emsp;&emsp; [直达链接](https://mushroombom.top/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/%E5%A2%A8%E7%BB%9C%E4%BA%91/)  
+
+3. **Free Cloud** &emsp;9.9元/月，130GB免费套餐 &emsp;&emsp; [直达链接](https://mushroombom.top/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/free-cloud/)  
+
+4. **EFCloud**  &nbsp;&emsp;&emsp;8元/月，200G中转  &emsp;&emsp;[直达链接](https://mushroombom.top/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/efcloud/)  
+
+5. **SsdAirport**  &nbsp;&emsp;6.2元/128G 中转 &emsp;&emsp; [直达链接](https://mushroombom.top/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/ssdairport/)  
+
+6. **TaiShan Net** &emsp;10元/月，128G 有专线 &emsp;&emsp; [直达链接](https://mushroombom.top/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/taishan/)  
+
+7. **XFSS**  &emsp;&emsp;&emsp;&emsp;7元/月，150G中转+专线 &emsp;&emsp; [直达链接](https://mushroombom.top/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/xfss/)  
+
+8. **Academy City Airport**  &emsp;8元/月，120G中转EMBY &emsp;&emsp; [直达链接](https://mushroombom.top/%E4%B8%AD%E8%BD%AC%E6%9C%BA%E5%9C%BA/academy-city-airport/)  
+
+
 
 
 EMBY机场
@@ -39,4 +56,4 @@ EMBY机场
 
 
 回国线路机场
-==
+--
