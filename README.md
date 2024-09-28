@@ -1,7 +1,7 @@
 2024 性价比机场推荐  
 ==
-本站持续从几百家机场/VPN中精选出最好用最具性价比的机场推荐，并整理出其落地拓扑、流媒体检测、优惠码、测速及价格。方便您在测试、学习、外贸等场景使用。
-2024年便宜机场推荐/vpn推荐，看这一篇就够了！[蘑菇机场超市](http://mushroombom.top)
+[蘑菇机场超市](http://mushroombom.top)持续从几百家机场/VPN中精选出最好用最具性价比的机场推荐，并整理出其落地拓扑、流媒体检测、优惠码、测速及价格。方便您在测试、学习、外贸等场景使用。
+2024年便宜机场推荐/vpn推荐，看这一篇就够了！
 
 
 直连机场
@@ -46,6 +46,21 @@
 
 EMBY机场
 --
+1. **OuO Network**  &emsp;6元/月，100G专线EMBY  &emsp;&emsp; [直达链接](https://mushroombom.top/emby%E6%9C%BA%E5%9C%BA/ouo-network/)  
+
+2. **Cloudfisher**  &emsp;&emsp;7元/月，120G专线EMBY  &emsp;&emsp; [直达链接](https://mushroombom.top/emby%E6%9C%BA%E5%9C%BA/cloudfisher/)  
+
+3. **玉兔**  &emsp;&emsp;&emsp;&emsp;&emsp;8.8元/月，118G EMBY服务  &emsp;&emsp; [直达链接](https://mushroombom.top/emby%E6%9C%BA%E5%9C%BA/%E7%8E%89%E5%85%94/)  
+
+4. **Ash机场**  &emsp;&emsp;&emsp;10元/月，101G含IPLC专线  &emsp;&emsp; [直达链接](https://mushroombom.top/emby%E6%9C%BA%E5%9C%BA/ash%E6%9C%BA%E5%9C%BA/)  
+
+5. **ApopCloud**  &nbsp;&emsp;10元/月，150G EMBY服务  &emsp;&emsp; [直达链接](https://mushroombom.top/emby%E6%9C%BA%E5%9C%BA/apopcloud/)  
+
+6. **守候网络**  &emsp;&emsp;&emsp;15元/月，440G专线EMBY  &emsp;&emsp; [直达链接](https://mushroombom.top/emby%E6%9C%BA%E5%9C%BA/%E5%AE%88%E5%80%99%E7%BD%91%E7%BB%9C/)  
+
+7. **杰云**  &emsp;&emsp;&emsp;&emsp;&emsp;9元/月，200G EMBY免流  &emsp;&emsp; [直达链接](https://mushroombom.top/emby%E6%9C%BA%E5%9C%BA/%E6%9D%B0%E4%BA%91/)  
+
+8. **精灵学院**  &emsp;&emsp;&emsp;12元/月，120G EMBY服务  &emsp;&emsp; [直达链接](https://mushroombom.top/emby%E6%9C%BA%E5%9C%BA/%E7%B2%BE%E7%81%B5%E5%AD%A6%E9%99%A2/)  
 
 无日志机场
 --
