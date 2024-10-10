@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="bypOeJjON6WK803YN-AoUz0X_DZ2SIxHyD0Co0iEwSo" />
+
 2024 性价比机场推荐  
 ==
 [蘑菇机场超市](http://mushroombom.top)持续从几百家机场/VPN中精选出最好用最具性价比的机场推荐，并整理出其落地拓扑、流媒体检测、优惠码、测速及价格。方便您在测试、学习、外贸等场景使用。
