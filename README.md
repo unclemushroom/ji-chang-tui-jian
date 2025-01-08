@@ -7,7 +7,7 @@
 直连机场
 --
 
-1. **福利机场**  &emsp;&emsp; 0元/月，49G直连  &emsp;&emsp;[直达链接](https://mushroombom.top/%E7%9B%B4%E8%BF%9E%E6%9C%BA%E5%9C%BA/%E7%A6%8F%E5%88%A9%E6%9C%BA%E5%9C%BA/)  
+1. **福利机场**  &emsp;&emsp; 0元/月，88G直连  &emsp;&emsp;[直达链接](https://mushroombom.top/%E7%9B%B4%E8%BF%9E%E6%9C%BA%E5%9C%BA/%E7%A6%8F%E5%88%A9%E6%9C%BA%E5%9C%BA/)  
 
 2. **KTM CLOUD**  &nbsp;&nbsp;4.79/月，1024G中转+直连  &emsp;&emsp;[直达链接](https://mushroombom.top/%E7%9B%B4%E8%BF%9E%E6%9C%BA%E5%9C%BA/ktm-cloud/)  
 
